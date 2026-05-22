@@ -188,7 +188,8 @@ function App() {
       <div className="app">
         <div className="header">
           <h1>Crochet Tracker</h1>
-          <p>keep track of your beautiful projects</p>
+          <p>track all your crochet projects</p>
+          <p style={{ fontSize: '0.75rem', color: '#e0a0b8', marginTop: '6px' }}>by Esmerlin</p>
         </div>
 
         <div className="card">
